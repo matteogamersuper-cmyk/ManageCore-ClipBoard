@@ -1,0 +1,17 @@
+# 🔐 Clipboard Vault data (NON caricare su GitHub)
+clipboard_history.json
+clipboard_history.enc
+secret.key
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 🧪 Virtual environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
