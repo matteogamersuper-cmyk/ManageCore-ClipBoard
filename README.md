@@ -24,11 +24,8 @@ clipboard.py → clipboard access
 storage.py → history management
 
 🔮 Future ideas
-Save history to file (JSON/SQLite)
-Encrypt clipboard vault
-Global hotkey support
+Save history to file Encrypted
 System tray mode
-Search bar
 Tags for clips
 
 📜 License
