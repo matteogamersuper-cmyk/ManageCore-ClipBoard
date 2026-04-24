@@ -32,6 +32,6 @@ System tray mode
 Search bar
 Tags for clips
 
-📜 License
+# 📜 License
 
 MIT License - feel free to use, modify and distribute.
