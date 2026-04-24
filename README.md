@@ -12,7 +12,6 @@ A simple but powerful clipboard manager built in Python.
 
 ## 🛠 Installation
 
-```bash
 pip install -r requirements.txt
 
 ▶️ Run
